@@ -25,4 +25,4 @@ I'm a passionate software developer with a keen interest in artificial intellige
 ### Open Source and Collaboration:
 Actively contributing to open-source projects and constantly exploring new technologies, I am always eager to collaborate on innovative projects. I am particularly interested in internships and collaborative opportunities to deepen my expertise in AI and other emerging technologies. My goal is to develop unique solutions that address real-world problems and make a meaningful impact.
 
-Feel free to check out my projects and contributions on GitHub [here](https://github.com/raviyadav001).
+Feel free to check out my projects and contributions on GitHub [here](https://github.com/rkyadav3).
