@@ -1,4 +1,4 @@
-## Hi there, I'm Tarun 👋
+## Hi there, I'm Ravi Kumar Yadav 👋
 
 I'm a passionate software developer with a keen interest in artificial intelligence and machine learning 🤖. I thrive on solving complex problems and leveraging technology to create innovative solutions 🚀. My journey in the tech world has been fueled by curiosity and a commitment to continuous learning 📚.
 
